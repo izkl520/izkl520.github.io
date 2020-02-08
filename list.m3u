@@ -181,3 +181,14 @@ http://183.238.77.9:9090/live/dox4k_16000.m3u8
 http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.sason.xyz/logo/blank.png" group-title="C.4K频道",纯享4K
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://tv.sason.xyz/logo/tvbfc.png" group-title="香港頻道",[luo2888.cn]翡翠台
+http://hdl0901.plures.net/onlive/a195f07a-caaa-4c4d-930a-1156e791abc.flv
+#EXTINF:-1 tvg-id="416" tvg-name="TVB J2" tvg-logo="http://tv.sason.xyz/logo/tvb2.png" group-title="香港頻道",[luo2888.cn]TVB J2
+http://hdl0901.plures.net/onlive/a195f07a-caaa-4c4d-930a-1156e791bcd.flv
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://tv.sason.xyz/logo/tvbxw.png" group-title="香港頻道",[luo2888.cn]無線新聞
+http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
+#EXTINF:-1 tvg-id="408" tvg-name="ViuTV"  tvg-logo="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1581042737328&di=b51b612bceef87a5c9678006c442b1ac&imgtype=0&src=http%3A%2F%2Fa1.att.hudong.com%2F64%2F18%2F01300000939397148344189974010.jpg" group-title="香港頻道",[luo2888.cn]Viu TV
+http://hls.ws.anyrtc.io/live/2af44c150b4b4a81a25158b5478823c7.flv
+#EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://tv.sason.xyz/logo/yxxw.png" group-title="香港頻道",[luo2888.cn]有線新聞
+https://ottproxy2.mott.tv/livehls/MOB-SCC/02.m3u8
