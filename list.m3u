@@ -188,7 +188,7 @@ http://hls.ws.anyrtc.io/live/2af44c150b4b4a81a25158b5478823c7.flv
 #EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://tv.sason.xyz/logo/yxxw.png" group-title="香港頻道",[luo2888.cn]有線新聞
 https://ottproxy2.mott.tv/livehls/MOB-SCC/02.m3u8 
 #EXTINF:-1 tvg-id="131" tvg-name="TVB星河频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB星河.png" group-title="香港頻道",TVB星河
-http://flv.live.xylive.tv/live/0040.flv
+http://livepgc0002.sobeycache.com/live/578mzm.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="香港頻道",翡翠台高清（解码HW+）
 http://pull.gzbqd.com/live/9def9ba42435bf973b2d22db73ac0d05.flv
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="香港頻道",翡翠台（备用）
