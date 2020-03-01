@@ -157,7 +157,7 @@ http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
 http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.sason.xyz/logo/blank.png" group-title="电影",广电4K测试频道 ▲
 http://cdn-in.iqy.sc96655.com/tslive/c214_scc_20191122_m4avmczq_original_r10/c214_scc_20191122_m4avmczq_original_r10.m3u8&
-#EXTINF:-1 tvg-id="" tvg-name="CETV-1 FHD"tvg-logo="http://tv.sason.xyz/logo/cetv1.png" group-title=" group-title="教育",CETV-1 FHD ▲
+#EXTINF:-1 tvg-id="" tvg-name="CETV-1 FHD"tvg-logo="http://tv.sason.xyz/logo/cetv1.png" group-title="教育",CETV-1 FHD ▲
 http://CDN-in.iqy.sc96655.com/tslive/c213_scc_20190618_hckfiiqn_original_r10/c213_scc_20190618_hckfiiqn_original_r10.m3u8&
 #EXTINF:-1 tvg-id="" tvg-name="CETV-2"tvg-logo="http://tv.sason.xyz/logo/cetv2.png" group-title="教育",CETV-2 SD
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225756/index.m3u8
@@ -217,9 +217,9 @@ http://hls.globaliptv.ml/myguizhou.php?id=cbnfengshangshenghuohd
 http://hls.globaliptv.ml/myguizhou.php?id=cbnmeiriyingyuanhd
 #EXTINF:-1 tvg-id="" tvg-name="CIBN" tvg-logo="https://pic2.superbed.cn/item/5dfda6ef76085c3289a17646.jpg" group-title="CIBN轮播",CBN幸福剧场 FHD
 http://hls.globaliptv.ml/myguizhou.php?id=cbnxingfujuchanghd
-#EXTINF:-1 tvg-id="" tvg-name="CIBN" tvg-logo="http://tv.sason.xyz/logo/hstv.png" group-title=http://tv.sason.xyz/logo/hstv.png" group-title=http://tv.sason.xyz/logo/hstv.png" group-title=" group-title="华数TV",华数FHD-01
+#EXTINF:-1 tvg-id="" tvg-name="CIBN" tvg-logo="http://tv.sason.xyz/logo/hstv.png" group-title=http://tv.sason.xyz/logo/hstv.png" group-title=http://tv.sason.xyz/logo/hstv.png"  group-title="华数TV",华数FHD-01
 http://hls-ott-zhibo.wasu.tv/live/353/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CIBN" tvg-logo="http://tv.sason.xyz/logo/hstv.png" group-title=http://tv.sason.xyz/logo/hstv.png" group-title=" group-title="华数TV",华数FHD-02
+#EXTINF:-1 tvg-id="" tvg-name="CIBN" tvg-logo="http://tv.sason.xyz/logo/hstv.png" group-title=http://tv.sason.xyz/logo/hstv.png" group-title="华数TV",华数FHD-02
 http://hls-ott-zhibo.wasu.tv/live/364/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="华数TV" tvg-logo="http://tv.sason.xyz/logo/hstv.png"  group-title="华数TV",华数FHD-03
 http://hls-ott-zhibo.wasu.tv/live/385/index.m3u8
