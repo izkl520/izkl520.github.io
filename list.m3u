@@ -151,19 +151,19 @@ http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_h
 http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV 4K 流畅版 ▲
 http://cdn-in.iqy.sc96655.com/tslive/c214_scc_20190618_pr3jsp04_original_r10/c214_scc_20190618_pr3jsp04_original_r10.m3u8&
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.sason.xyz/logo/blank.png" group-title=" group-title="4K",BesTV 4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.sason.xyz/logo/blank.png" group-title="4K",BesTV 4K
 http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.sason.xyz/logo/blank.png" group-title=",纯享4K
 http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.sason.xyz/logo/blank.png" group-title=" group-title="电影",广电4K测试频道 ▲
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.sason.xyz/logo/blank.png" group-title="电影",广电4K测试频道 ▲
 http://cdn-in.iqy.sc96655.com/tslive/c214_scc_20191122_m4avmczq_original_r10/c214_scc_20191122_m4avmczq_original_r10.m3u8&
 #EXTINF:-1 tvg-id="" tvg-name="CETV-1 FHD"tvg-logo="http://tv.sason.xyz/logo/cetv1.png" group-title=" group-title="教育",CETV-1 FHD ▲
 http://CDN-in.iqy.sc96655.com/tslive/c213_scc_20190618_hckfiiqn_original_r10/c213_scc_20190618_hckfiiqn_original_r10.m3u8&
-#EXTINF:-1 tvg-id="" tvg-name="CETV-2"tvg-logo="http://tv.sason.xyz/logo/cetv2.png" group-title=" group-title="教育",CETV-2 SD
+#EXTINF:-1 tvg-id="" tvg-name="CETV-2"tvg-logo="http://tv.sason.xyz/logo/cetv2.png" group-title="教育",CETV-2 SD
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225756/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CETV-3"tvg-logo="http://tv.sason.xyz/logo/cetv3.png" group-title=" group-title="教育",CETV-3 SD
+#EXTINF:-1 tvg-id="" tvg-name="CETV-3"tvg-logo="http://tv.sason.xyz/logo/cetv3.png" group-title="教育",CETV-3 SD
 http://hls.zixuan.ml:13579/mymigu.php?id=649531756
-#EXTINF:-1 tvg-id="" tvg-name="CETV-4"tvg-logo="http://tv.sason.xyz/logo/cetv4.png" group-title=" group-title="教育",CETV-4 SD
+#EXTINF:-1 tvg-id="" tvg-name="CETV-4"tvg-logo="http://tv.sason.xyz/logo/cetv4.png" group-title="教育",CETV-4 SD
 http://hls.zixuan.ml:13579/mymigu.php?id=649531725
 #EXTINF:-1 tvg-id="6581" tvg-name="早期教育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE33.jpg" group-title="教育",CETV 早期教育 SD ▲
 http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190618_4xjwi0v3_original_r10/c211_scc_20190618_4xjwi0v3_original_r10.m3u8&
@@ -221,65 +221,65 @@ http://hls.globaliptv.ml/myguizhou.php?id=cbnxingfujuchanghd
 http://hls-ott-zhibo.wasu.tv/live/353/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CIBN" tvg-logo="http://tv.sason.xyz/logo/hstv.png" group-title=http://tv.sason.xyz/logo/hstv.png" group-title=" group-title="华数TV",华数FHD-02
 http://hls-ott-zhibo.wasu.tv/live/364/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="华数TV" tvg-logo="http://tv.sason.xyz/logo/hstv.png" group-title=" group-title="华数TV",华数FHD-03
+#EXTINF:-1 tvg-id="" tvg-name="华数TV" tvg-logo="http://tv.sason.xyz/logo/hstv.png"  group-title="华数TV",华数FHD-03
 http://hls-ott-zhibo.wasu.tv/live/385/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="华数TV" tvg-logo="http://tv.sason.xyz/logo/hstv.png" group-title=" group-title="华数TV",华数FHD-04
+#EXTINF:-1 tvg-id="" tvg-name="华数TV" tvg-logo="http://tv.sason.xyz/logo/hstv.png"  group-title="华数TV",华数FHD-04
 http://hls-ott-zhibo.wasu.tv/live/384/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="华数TV" tvg-logo="http://tv.sason.xyz/logo/hstv.png" group-title=" group-title="华数TV",华数FHD-05
+#EXTINF:-1 tvg-id="" tvg-name="华数TV" tvg-logo="http://tv.sason.xyz/logo/hstv.png"  group-title="华数TV",华数FHD-05
 http://hls-ott-zhibo.wasu.tv/live/386/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="华数TV" tvg-logo="http://tv.sason.xyz/logo/hstv.png" group-title=" group-title="华数TV",华数FHD-06
+#EXTINF:-1 tvg-id="" tvg-name="华数TV" tvg-logo="http://tv.sason.xyz/logo/hstv.png"  group-title="华数TV",华数FHD-06
 http://hls-ott-zhibo.wasu.tv/live/412/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="华数TV" tvg-logo="http://tv.sason.xyz/logo/hstv.png" group-title=" group-title="华数TV",华数FHD-07
+#EXTINF:-1 tvg-id="" tvg-name="华数TV" tvg-logo="http://tv.sason.xyz/logo/hstv.png"  group-title="华数TV",华数FHD-07
 http://hls-ott-zhibo.wasu.tv/live/413/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="华数TV" tvg-logo="http://tv.sason.xyz/logo/hstv.png" group-title=" group-title="华数TV",华数FHD-08
+#EXTINF:-1 tvg-id="" tvg-name="华数TV" tvg-logo="http://tv.sason.xyz/logo/hstv.png"  group-title="华数TV",华数FHD-08
 http://hls-ott-zhibo.wasu.tv/live/410/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="华数TV" tvg-logo="http://tv.sason.xyz/logo/hstv.png" group-title=" group-title="华数TV",华数FHD-09
+#EXTINF:-1 tvg-id="" tvg-name="华数TV" tvg-logo="http://tv.sason.xyz/logo/hstv.png"  group-title="华数TV",华数FHD-09
 http://hls-ott-zhibo.wasu.tv/live/414/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="华数TV" tvg-logo="http://tv.sason.xyz/logo/hstv.png" group-title=" group-title="华数TV",华数FHD-10
+#EXTINF:-1 tvg-id="" tvg-name="华数TV" tvg-logo="http://tv.sason.xyz/logo/hstv.png" group-title="华数TV",华数FHD-10
 http://hls-ott-zhibo.wasu.tv/live/415/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="华数TV" tvg-logo="http://tv.sason.xyz/logo/hstv.png" group-title=" group-title="华数TV",华数FHD-11
+#EXTINF:-1 tvg-id="" tvg-name="华数TV" tvg-logo="http://tv.sason.xyz/logo/hstv.png"  group-title="华数TV",华数FHD-11
 http://hls-ott-zhibo.wasu.tv/live/420/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="华数TV" tvg-logo="http://tv.sason.xyz/logo/hstv.png" group-title=" group-title="华数TV",华数FHD-12
+#EXTINF:-1 tvg-id="" tvg-name="华数TV" tvg-logo="http://tv.sason.xyz/logo/hstv.png"  group-title="华数TV",华数FHD-12
 http://hls-ott-zhibo.wasu.tv/live/428/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="华数TV" tvg-logo="http://tv.sason.xyz/logo/hstv.png" group-title=" group-title="华数TV",华数FHD-13
+#EXTINF:-1 tvg-id="" tvg-name="华数TV" tvg-logo="http://tv.sason.xyz/logo/hstv.png"  group-title="华数TV",华数FHD-13
 http://hls-ott-zhibo.wasu.tv/live/435/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="华数TV" tvg-logo="http://tv.sason.xyz/logo/hstv.png" group-title=" group-title="华数TV",华数FHD-15
+#EXTINF:-1 tvg-id="" tvg-name="华数TV" tvg-logo="http://tv.sason.xyz/logo/hstv.png" group-title="华数TV",华数FHD-15
 http://hls-ott-zhibo.wasu.tv/live/461/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="华数TV" tvg-logo="http://tv.sason.xyz/logo/hstv.png" group-title=" group-title="华数TV",华数HD-01
+#EXTINF:-1 tvg-id="" tvg-name="华数TV" tvg-logo="http://tv.sason.xyz/logo/hstv.png"  group-title="华数TV",华数HD-01
 http://hls-ott-zhibo.wasu.tv/live/113/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="华数TV" tvg-logo="http://tv.sason.xyz/logo/hstv.png" group-title=" group-title="华数TV",华数HD-02
+#EXTINF:-1 tvg-id="" tvg-name="华数TV" tvg-logo="http://tv.sason.xyz/logo/hstv.png"  group-title="华数TV",华数HD-02
 http://hls-ott-zhibo.wasu.tv/live/180/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="华数TV" tvg-logo="http://tv.sason.xyz/logo/hstv.png" group-title=" group-title="华数TV",华数HD-03
+#EXTINF:-1 tvg-id="" tvg-name="华数TV" tvg-logo="http://tv.sason.xyz/logo/hstv.png"  group-title="华数TV",华数HD-03
 http://hls-ott-zhibo.wasu.tv/live/181/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="华数TV" tvg-logo="http://tv.sason.xyz/logo/hstv.png" group-title=" group-title="华数TV",华数HD-04
+#EXTINF:-1 tvg-id="" tvg-name="华数TV" tvg-logo="http://tv.sason.xyz/logo/hstv.png"  group-title="华数TV",华数HD-04
 http://hls-ott-zhibo.wasu.tv/live/303/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="华数TV" tvg-logo="http://tv.sason.xyz/logo/hstv.png" group-title=" group-title="华数TV",华数HD-05
+#EXTINF:-1 tvg-id="" tvg-name="华数TV" tvg-logo="http://tv.sason.xyz/logo/hstv.png"  group-title="华数TV",华数HD-05
 http://hls-ott-zhibo.wasu.tv/live/315/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="华数TV" tvg-logo="http://tv.sason.xyz/logo/hstv.png" group-title=" group-title="华数TV",华数HD-06
+#EXTINF:-1 tvg-id="" tvg-name="华数TV" tvg-logo="http://tv.sason.xyz/logo/hstv.png"  group-title="华数TV",华数HD-06
 http://hls-ott-zhibo.wasu.tv/live/332/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="华数TV" tvg-logo="http://tv.sason.xyz/logo/hstv.png" group-title=" group-title="华数TV",华数HD-07
+#EXTINF:-1 tvg-id="" tvg-name="华数TV" tvg-logo="http://tv.sason.xyz/logo/hstv.png"  group-title="华数TV",华数HD-07
 http://hls-ott-zhibo.wasu.tv/live/348/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="华数TV" tvg-logo="http://tv.sason.xyz/logo/hstv.png" group-title=" group-title="华数TV",华数HD-08
+#EXTINF:-1 tvg-id="" tvg-name="华数TV" tvg-logo="http://tv.sason.xyz/logo/hstv.png"  group-title="华数TV",华数HD-08
 http://hls-ott-zhibo.wasu.tv/live/367/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="华数TV" tvg-logo="http://tv.sason.xyz/logo/hstv.png" group-title=" group-title="华数TV",华数HD-09
+#EXTINF:-1 tvg-id="" tvg-name="华数TV" tvg-logo="http://tv.sason.xyz/logo/hstv.png"  group-title="华数TV",华数HD-09
 http://hls-ott-zhibo.wasu.tv/live/365/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="华数TV" tvg-logo="http://tv.sason.xyz/logo/hstv.png" group-title=" group-title="华数TV",华数HD-10
+#EXTINF:-1 tvg-id="" tvg-name="华数TV" tvg-logo="http://tv.sason.xyz/logo/hstv.png"  group-title="华数TV",华数HD-10
 http://hls-ott-zhibo.wasu.tv/live/369/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="华数TV" tvg-logo="http://tv.sason.xyz/logo/hstv.png" group-title=" group-title="华数TV",华数HD-11
+#EXTINF:-1 tvg-id="" tvg-name="华数TV" tvg-logo="http://tv.sason.xyz/logo/hstv.png"  group-title="华数TV",华数HD-11
 http://hls-ott-zhibo.wasu.tv/live/394/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="华数TV" tvg-logo="http://tv.sason.xyz/logo/hstv.png" group-title=" group-title="华数TV",华数HD-12
+#EXTINF:-1 tvg-id="" tvg-name="华数TV" tvg-logo="http://tv.sason.xyz/logo/hstv.png"  group-title="华数TV",华数HD-12
 http://hls-ott-zhibo.wasu.tv/live/403/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="华数TV" tvg-logo="http://tv.sason.xyz/logo/hstv.png" group-title=" group-title="华数TV",华数HD-13
+#EXTINF:-1 tvg-id="" tvg-name="华数TV" tvg-logo="http://tv.sason.xyz/logo/hstv.png"  group-title="华数TV",华数HD-13
 http://hls-ott-zhibo.wasu.tv/live/419/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="华数TV" tvg-logo="http://tv.sason.xyz/logo/hstv.png" group-title=" group-title="华数TV",华数HD-14
+#EXTINF:-1 tvg-id="" tvg-name="华数TV" tvg-logo="http://tv.sason.xyz/logo/hstv.png"  group-title="华数TV",华数HD-14
 http://hls-ott-zhibo.wasu.tv/live/418/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="华数TV" tvg-logo="http://tv.sason.xyz/logo/hstv.png" group-title=" group-title="华数TV",华数HD-15
+#EXTINF:-1 tvg-id="" tvg-name="华数TV" tvg-logo="http://tv.sason.xyz/logo/hstv.png"  group-title="华数TV",华数HD-15
 http://hls-ott-zhibo.wasu.tv/live/422/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="华数TV" tvg-logo="http://tv.sason.xyz/logo/hstv.png" group-title=" group-title="华数TV",华数HD-16
+#EXTINF:-1 tvg-id="" tvg-name="华数TV" tvg-logo="http://tv.sason.xyz/logo/hstv.png"  group-title="华数TV",华数HD-16
 http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="华数TV" tvg-logo="http://tv.sason.xyz/logo/hstv.png" group-title=" group-title="华数TV",华数HD-17
+#EXTINF:-1 tvg-id="" tvg-name="华数TV" tvg-logo="http://tv.sason.xyz/logo/hstv.png"  group-title="华数TV",华数HD-17
 http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="华数TV" tvg-logo="http://tv.sason.xyz/logo/hstv.png" group-title=" group-title="华数TV",华数HD-18
+#EXTINF:-1 tvg-id="" tvg-name="华数TV" tvg-logo="http://tv.sason.xyz/logo/hstv.png"  group-title="华数TV",华数HD-18
 http://hls-ott-zhibo.wasu.tv/live/452/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CIBN" tvg-logo="https://pic2.superbed.cn/item/5dfda6ef76085c3289a17646.jpghttps://pic2.superbed.cn/item/5dfda6ef76085c3289a17646.jpghttps://pic2.superbed.cn/item/5dfda6ef76085c3289a17646.jpghttps://pic2.superbed.cn/item/5dfda6ef76085c3289a17646.jpghttps://pic2.superbed.cn/item/5dfda6ef76085c3289a17646.jpghttps://pic2.superbed.cn/item/5dfda6ef76085c3289a17646.jpg" group-title="CIBN轮播",CIBN电影
 http://cinb1.peoplevideo.cn/hls/vCIBNDYPD/1800/vCIBNDYPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
