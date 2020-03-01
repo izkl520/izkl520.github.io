@@ -1,755 +1,383 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="CCTV1" tvg-logo="" group-title="央视",CCTV1
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1 综合 FHD
 http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="2" tvg-
-http://tv.sason.xyz/logo/cctv2.png" group-title="A.央视",CCTV-2 财经 FHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2 财经 FHD
 http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="3" tvg-
-http://tv.sason.xyz/logo/cctv3.png" group-title="A.央视",CCTV-3 综艺 FHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV-3 综艺 FHD
 http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000203803.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="4" tvg-
-http://tv.sason.xyz/logo/cctv4.png" group-title="A.央视",CCTV-4 国际 FHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV-4 国际 FHD
 http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000204803.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="5" tvg-
-http://tv.sason.xyz/logo/cctv5.png" group-title="A.央视",CCTV-5 体育 FHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV-5 体育 FHD
 http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000205103.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="6" tvg-
-http://tv.sason.xyz/logo/cctv5p.png" group-title="A.央视",CCTV-5+ 体育赛事 FHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV-5+ 体育赛事 FHD
 http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000204503.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="7" tvg-
-http://tv.sason.xyz/logo/cctv6.png" group-title="A.央视",CCTV-6 电影 FHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV-6 电影 FHD
 http://118.123.60.5:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=093&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="8" tvg-
-http://tv.sason.xyz/logo/cctv7.png" group-title="A.央视",CCTV-7 国防军事 FHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV-7 国防军事 FHD
 http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000510003.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="9" tvg-
-http://tv.sason.xyz/logo/cctv8.png" group-title="A.央视",CCTV-8 电视剧 FHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV-8 电视剧 FHD
 http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000203903.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="10" tvg
-http://tv.sason.xyz/logo/cctv9.png" group-title="A.央视",CCTV-9 纪录 FHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV-9 纪录 FHD
 http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000499403.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="11" tvg
-http://tv.sason.xyz/logo/cctv10.png" group-title="A.央视",CCTV-10 科教 FHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV-10 科教 FHD
 http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000203503.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="12" tvg
-http://tv.sason.xyz/logo/cctv11.png" group-title="A.央视",CCTV-11 戏曲 FHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV-11 戏曲 FHD
 http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000204103.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="13" tvg
-http://tv.sason.xyz/logo/cctv12.png" group-title="A.央视",CCTV-12 社会与法 FHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV-12 社会与法 FHD
 http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000202603.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="14" tvg
-http://tv.sason.xyz/logo/cctv13.png" group-title="A.央视",CCTV-13 新闻 FHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV-13 新闻 FHD
 http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="15" tvg
-http://tv.sason.xyz/logo/cctv14.png" group-title="A.央视",CCTV-14 少儿 FHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV-14 少儿 FHD
 http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000204403.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="16" tvg
-http://tv.sason.xyz/logo/cctv15.png" group-title="A.央视",CCTV-15 音乐 FHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV-15 音乐 FHD
 http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="17" tvg
-http://tv.sason.xyz/logo/cctv17.png" group-title="A.央视",CCTV-17 农村农业 FHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17 农村农业 FHD
 http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="20" tvg
-http://tv.sason.xyz/logo/cgtn.png" group-title="A.央视",CGTN FHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN FHD
 http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="106" tv
-http://tv.sason.xyz/logo/cctv4k.png" group-title="A.央视",CCTV 4K FHD版
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV 4K FHD版
 http://140.249.30.36/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="0" tvg-
-http://tv.sason.xyz/logo/cctv4us.png" group-title="A.央视",CCTV-4 美洲 SD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV-4 美洲 SD
 https://cctvcnch5ca.v.wscdns.com/live/cctvamerica_2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="0" tvg-
-http://tv.sason.xyz/logo/cctv4eu.png" group-title="A.央视",CCTV-4 欧洲 SD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV-4 欧洲 SD
 https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctveurope_2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="6563" t
-http://tv.sason.xyz/logo/cctvbqkj.png" group-title="A.央视",CCTV-兵器科技 SD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="6563" tvg-name="兵器科技" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" group-title="央视付费",CCTV-兵器科技 SD
 http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000093.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="6558" t
-http://tv.sason.xyz/logo/cctvdyjc .png" group-title="A.央视",CCTV-第一剧场 SD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="央视付费",CCTV-第一剧场 SD
 http://hls.globaliptv.ml/myguizhou.php?id=cctvdiyijuchang
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="6588" t
-http://tv.sason.xyz/logo/cctvfxzl.png" group-title="A.央视",CCTV-发现之旅 SD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="6588" tvg-name="发现之旅" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfaxianzhilv.png" group-title="央视付费",CCTV-发现之旅 SD
 http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000120.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="6559" t
-http://tv.sason.xyz/logo/cctvfyjc.png" group-title="A.央视",CCTV-风云剧场 SD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="6559" tvg-name="风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="央视付费",CCTV-风云剧场 SD
 http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000094.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="6557" t
-http://tv.sason.xyz/logo/cctvfyyy.png" group-title="A.央视",CCTV-风云音乐 SD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="央视付费",CCTV-风云音乐 SD
 http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000090.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="6000" t
-http://tv.sason.xyz/logo/cctvfyzq.png" group-title="A.央视",CCTV-风云足球 SD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="央视付费",CCTV-风云足球 SD
 http://hls.globaliptv.ml/myguizhou.php?id=cctvfengyunzuqiu
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="6568" t
-http://tv.sason.xyz/logo/cctvgolf.png" group-title="A.央视",CCTV-高尔夫网球 SD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="6568" tvg-name="高尔夫网球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg" group-title="央视付费",CCTV-高尔夫网球 SD
 http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000088.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="6562" t
-http://tv.sason.xyz/logo/cctvhjjc.png" group-title="A.央视",CCTV-怀旧剧场 SD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="央视付费",CCTV-怀旧剧场 SD
 http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000089.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="6594" t
-http://tv.sason.xyz/logo/cctvlgs.png" group-title="A.央视",CCTV-老故事 SD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="6594" tvg-name="老故事" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVlaogushi.png" group-title="央视付费",CCTV-老故事 SD
 http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000119.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="6564" t
-http://tv.sason.xyz/logo/cctvnxss.png" group-title="A.央视",CCTV-女性时尚 SD ▲
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="6564" tvg-name="女性时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" group-title="央视付费",CCTV-女性时尚 SD ▲
 http://cdn-in.iqy.sc96655.com/tslive/c213_scc_20190618_jahoddg0_original_r10/c213_scc_20190618_jahoddg0_original_r10.m3u8&
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="6560" t
-http://tv.sason.xyz/logo/cctvsjdl.png" group-title="A.央视",CCTV-世界地理 SD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="央视付费",CCTV-世界地理 SD
 http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000092.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="0" tvg-
-http://tv.sason.xyz/logo/cctvwsjk.png" group-title="A.央视",CCTV-卫生健康 SD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视付费",CCTV-卫生健康 SD
 http://hls.globaliptv.ml/myguizhou.php?id=cctvweishengjiankang
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="6592" t
-http://tv.sason.xyz/logo/cctvxkdm.png" group-title="A.央视",CCTV-新科动漫 SD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="6592" tvg-name="新科动漫" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVxinke.png" group-title="央视付费",CCTV-新科动漫 SD
 http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000083.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="0" tvg-
-http://tv.sason.xyz/logo/cctvtq.png" group-title="A.央视",CCTV-央视台球 SD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="央视付费",CCTV-央视台球 SD
 http://42.48.60.248:8082/live/ystq-800k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="6583" t
-http://tv.sason.xyz/logo/cctvzxs.png" group-title="A.央视",CCTV-中学生 SD ▲
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="6583" tvg-name="中学生" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVzhongxuesheng.png" group-title="教育",CCTV-中学生 SD ▲
 http://cdn-in.iqy.sc96655.com/tslive/c214_scc_20190618_xmfr0n1n_original_r10/c214_scc_20190618_xmfr0n1n_original_r10.m3u8&
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="27" tvg
-http://tv.sason.xyz/logo/hnws.png" group-title="B.卫视",湖南卫视 FHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视 FHD
 http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000296203.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="29" tvg
-http://tv.sason.xyz/logo/jsws.png" group-title="B.卫视",江苏卫视 FHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视 FHD
 http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000295603.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="28" tvg
-http://tv.sason.xyz/logo/zjws.png" group-title="B.卫视",浙江卫视 FHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视 FHD
 http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000295503.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="31" tvg
-http://tv.sason.xyz/logo/dfws.png" group-title="B.卫视",东方卫视 FHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视 FHD
 http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000292403.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="56" tvg
-http://tv.sason.xyz/logo/scws.png" group-title="B.卫视",四川卫视 FHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视 FHD
 http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000295003.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="30" tvg
-http://tv.sason.xyz/logo/bjws.png" group-title="B.卫视",北京卫视 FHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视 FHD
 http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000272103.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="33" tvg
-http://tv.sason.xyz/logo/gdws.png" group-title="B.卫视",广东卫视 FHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视 FHD
 http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000292703.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="34" tvg
-http://tv.sason.xyz/logo/szws.png" group-title="B.卫视",深圳卫视 FHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视 FHD
 http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000292203.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="38" tvg
-http://tv.sason.xyz/logo/sdws.png" group-title="B.卫视",山东卫视 FHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视 FHD
 http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000294803.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="39" tvg
-http://tv.sason.xyz/logo/tjws.png" group-title="B.卫视",天津卫视 FHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视 FHD
 http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000295103.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="41" tvg
-http://tv.sason.xyz/logo/dnws.png" group-title="B.卫视",东南卫视 FHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视 FHD
 http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000292503.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="46" tvg
-http://tv.sason.xyz/logo/hljws.png" group-title="B.卫视",黑龙江卫视 FHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视 FHD
 http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000293903.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="48" tvg
-http://tv.sason.xyz/logo/hubws.png" group-title="B.卫视",湖北卫视 FHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视 FHD
 http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000294503.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="50" tvg
-http://tv.sason.xyz/logo/jxws.png" group-title="B.卫视",江西卫视 FHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视",江西卫视 FHD
 http://hls.globaliptv.ml/myguizhou.php?id=jiangxiweishihd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="36" tvg
-http://tv.sason.xyz/logo/lnws.png" group-title="B.卫视",辽宁卫视 FHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视",辽宁卫视 FHD
 http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000281303.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="40" tvg
-http://tv.sason.xyz/logo/cqws.png" group-title="B.卫视",重庆卫视 FHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视 FHD
 http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000297803.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="32" tvg
-http://tv.sason.xyz/logo/ahws.png" group-title="B.卫视",安徽卫视 FHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视 FHD
 http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000298003.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="45" tvg
-http://tv.sason.xyz/logo/hebws.png" group-title="B.卫视",河北卫视 FHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视",河北卫视 FHD
 http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000293403.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="47" tvg
-http://tv.sason.xyz/logo/henws.png" group-title="B.卫视",河南卫视 FHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视 FHD
 http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000296103.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="44" tvg
-http://tv.sason.xyz/logo/gzws.png" group-title="B.卫视",贵州卫视 FHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视",贵州卫视 FHD
 http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000293303.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="43" tvg
-http://tv.sason.xyz/logo/gxws.png" group-title="B.卫视",广西卫视 FHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视",广西卫视 FHD
 http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000294203.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="2060" t
-http://tv.sason.xyz/logo/emdy.png" group-title="电影",峨眉电影-1 HD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",峨眉电影-1 HD
 http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="2060" t
-http://tv.sason.xyz/logo/emdy.png" group-title="电影",峨眉电影-2 FHD ▲
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",峨眉电影-2 FHD ▲
 http://cdn-in.iqy.sc96655.com/tslive/c212_scc_20190618_5nvsifwn_original_r10/c212_scc_20190618_5nvsifwn_original_r10.m3u8&
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="0" tvg-
-http://tv.sason.xyz/logo/blank.png" group-title="电影",湖南潇湘电影 HD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",湖南潇湘电影 HD
 http://124.232.231.246:6610/000000001001/201600020006/1400.m3u8?zte_auth=ae0fcdac&ztecid=201600020005&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=LPjne9%2Bz7%2B%2F905ByFWbN5McknogfJXrVwjUFLaeEL29vpHGrk2l%2FUHYgN1aASj376oO1xLnnHQM%2BvUxQhm38dnHm1eSuY7vi6YzamvW6l8OtgHpq%2BKs%2Bl9QddsFpnz4k&m3u8_level=2&terminal_flag=0&ispcode=8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="37" tvg
-http://tv.sason.xyz/logo/hanws.png" group-title="B.卫视",海南卫视 FHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视 FHD
 http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000291503.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="51" tvg
-http://tv.sason.xyz/logo/jlws.png" group-title="B.卫视",吉林卫视 HD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视",吉林卫视 HD
 http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=011&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="54" tvg
-http://tv.sason.xyz/logo/sxws1.png" group-title="B.卫视",山西卫视 HD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="卫视",山西卫视 HD
 http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=010&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="55" tvg
-http://tv.sason.xyz/logo/sxws3.png" group-title="B.卫视",陕西卫视 HD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="卫视",陕西卫视 HD
 http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=049&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="58" tvg
-http://tv.sason.xyz/logo/ynws.png" group-title="B.卫视",云南卫视 HD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视 HD
 http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=013&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="42" tvg
-http://tv.sason.xyz/logo/gsws.png" group-title="B.卫视",甘肃卫视 HD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视",甘肃卫视 HD
 http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=012&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="53" tvg
-http://tv.sason.xyz/logo/nxws.png" group-title="B.卫视",宁夏卫视 SD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="卫视",宁夏卫视 SD
 http://118.123.60.6:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=017&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="59" tvg
-http://tv.sason.xyz/logo/qhws.png" group-title="B.卫视",青海卫视 SD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="卫视",青海卫视 SD
 http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=016&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="71" tvg
-http://tv.sason.xyz/logo/xzws.png" group-title="B.卫视",西藏卫视 SD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视",西藏卫视 SD
 http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=018&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="57" tvg
-http://tv.sason.xyz/logo/xjws.png" group-title="B.卫视",新疆卫视 HD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="卫视",新疆卫视 HD
 http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=058&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="52" tvg
-http://tv.sason.xyz/logo/nmgws.png" group-title="B.卫视",内蒙古卫视 SD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="卫视",内蒙古卫视 SD
 http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=016&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="61" tvg
-http://tv.sason.xyz/logo/btws.png" group-title="B.卫视",兵团卫视 SD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="卫视",兵团卫视 SD
 http://ivi.bupt.edu.cn/hls/bttv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="70" tvg
-http://tv.sason.xyz/logo/kbws.png" group-title="B.卫视",康巴卫视 SD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="70" tvg-name="康巴卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/kangba.png" group-title="卫视",康巴卫视 SD
 http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=017&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="0" tvg-
-http://tv.sason.xyz/logo/hxws.png" group-title="B.卫视",海峡卫视 SD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",海峡卫视 SD
 http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=024&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="106" tv
-http://tv.sason.xyz/logo/cctv4k.png" group-title="C.4K频道",CCTV 4K 高码率
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV 4K 高码率
 http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="106" tv
-http://tv.sason.xyz/logo/cctv4k.png" group-title="C.4K频道",CCTV 4K 流畅版 ▲
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV 4K 流畅版 ▲
 http://cdn-in.iqy.sc96655.com/tslive/c214_scc_20190618_pr3jsp04_original_r10/c214_scc_20190618_pr3jsp04_original_r10.m3u8&
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="0" tvg-
-http://tv.sason.xyz/logo/blank.png" group-title="C.4K频道",BesTV 4K
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",BesTV 4K
 http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="0" tvg-
-http://tv.sason.xyz/logo/blank.png" group-title="C.4K频道",纯享4K
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",纯享4K
 http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="0" tvg-
-http://tv.sason.xyz/logo/blank.png" group-title="C.4K频道",广电4K测试频道 ▲
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",广电4K测试频道 ▲
 http://cdn-in.iqy.sc96655.com/tslive/c214_scc_20191122_m4avmczq_original_r10/c214_scc_20191122_m4avmczq_original_r10.m3u8&
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="73" tvg
-http://tv.sason.xyz/logo/cetv1.png" group-title="D.教育频道",CETV-1 FHD ▲
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="教育",CETV-1 FHD ▲
 http://CDN-in.iqy.sc96655.com/tslive/c213_scc_20190618_hckfiiqn_original_r10/c213_scc_20190618_hckfiiqn_original_r10.m3u8&
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="74" tvg
-http://tv.sason.xyz/logo/cetv2.png" group-title="D.教育频道",CETV-2 SD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="教育",CETV-2 SD
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225756/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="75" tvg
-http://tv.sason.xyz/logo/cetv3.png" group-title="D.教育频道",CETV-3 SD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="教育",CETV-3 SD
 http://hls.zixuan.ml:13579/mymigu.php?id=649531756
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="0" tvg-
-http://tv.sason.xyz/logo/cetv4.png" group-title="D.教育频道",CETV-4 SD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="教育",CETV-4 SD
 http://hls.zixuan.ml:13579/mymigu.php?id=649531725
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="6581" t
-http://tv.sason.xyz/logo/cetvzqjy.png" group-title="D.教育频道",CETV 早期教育 SD ▲
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="6581" tvg-name="早期教育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE33.jpg" group-title="地方",CETV 早期教育 SD ▲
 http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190618_4xjwi0v3_original_r10/c211_scc_20190618_4xjwi0v3_original_r10.m3u8&
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="6245" t
-http://tv.sason.xyz/logo/blank.png" group-title="电影",CHC动作电影 ▲
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="电影",CHC动作电影 ▲
 http://cdn-in.iqy.sc96655.com/tslive/c213_scc_20190618_wzkayvu1_original_r10/c213_scc_20190618_wzkayvu1_original_r10.m3u8&
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="6241" t
-http://tv.sason.xyz/logo/blank.png" group-title="电影",CHC高清电影 ▲
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="电影",CHC高清电影 ▲
 http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190618_ek4k254b_original_r10/c211_scc_20190618_ek4k254b_original_r10.m3u8&
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="6246" t
-http://tv.sason.xyz/logo/blank.png" group-title="电影",CHC家庭电影 ▲
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="电影",CHC家庭电影 ▲
 http://cdn-in.iqy.sc96655.com/tslive/c212_scc_20190618_q0ktot1t_original_r10/c212_scc_20190618_q0ktot1t_original_r10.m3u8&
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="1976" t
-http://tv.sason.xyz/logo/dqjs.png" group-title="E.数字电视",Document全记实 FHD ▲
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Document全记实 FHD ▲
 http://cdn-in.iqy.sc96655.com/tslive/c214_scc_20190618_v5ehytok_original_r10/c214_scc_20190618_v5ehytok_original_r10.m3u8&
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="6244" t
-http://tv.sason.xyz/logo/qsjl.png" group-title="E.数字电视",求索记录 FHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.jpg" group-title="地方",求索记录 FHD
 http://112.17.40.145/PLTV/88888888/224/3221226610/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="0" tvg-
-http://tv.sason.xyz/logo/blank.png" group-title="E.数字电视",动漫秀场 FHD ▲
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字电视",动漫秀场 FHD ▲
 http://cdn-in.iqy.sc96655.com/tslive/c212_scc_20190618_0ao2empo_original_r10/c212_scc_20190618_0ao2empo_original_r10.m3u8&
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="0" tvg-
-http://tv.sason.xyz/logo/blank.png" group-title="E.数字电视",都市剧场 FHD ▲
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字电视",都市剧场 FHD ▲
 http://cdn-in.iqy.sc96655.com/tslive/c214_scc_20190618_4lpqgfgj_original_r10/c214_scc_20190618_4lpqgfgj_original_r10.m3u8&
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="1977" t
-http://tv.sason.xyz/logo/blank.png" group-title="E.数字电视",欢笑剧场 FHD ▲
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="数字电视",欢笑剧场 FHD ▲
 http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190618_zfhmkt12_original_r10/c211_scc_20190618_zfhmkt12_original_r10.m3u8&
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="1975" t
-http://tv.sason.xyz/logo/blank.png" group-title="E.数字电视",极速汽车 FHD ▲
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="1975" tvg-name="MAX极速汽车" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png" group-title="数字电视",极速汽车 FHD ▲
 http://cdn-in.iqy.sc96655.com/tslive/c214_scc_20190618_foyfbby2_original_r10/c214_scc_20190618_foyfbby2_original_r10.m3u8&
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="6595" t
-http://tv.sason.xyz/logo/blank.png" group-title="E.数字电视",快乐垂钓 FHD ▲
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="数字电视",快乐垂钓 FHD ▲
 http://cdn-in.iqy.sc96655.com/tslive/c214_scc_20190618_fq3c2esl_original_r10/c214_scc_20190618_fq3c2esl_original_r10.m3u8&
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="1981" t
-http://tv.sason.xyz/logo/blank.png" group-title="E.数字电视",生活时尚 FHD ▲
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="数字电视,生活时尚 FHD ▲
 http://cdn-in.iqy.sc96655.com/tslive/c212_scc_20190618_vrqwjwec_original_r10/c212_scc_20190618_vrqwjwec_original_r10.m3u8&
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="1963" t
-http://tv.sason.xyz/logo/blank.png" group-title="E.数字电视",新视觉 FHD ▲
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="数字电视",新视觉 FHD ▲
 http://cdn-in.iqy.sc96655.com/tslive/c213_scc_20190618_ccee1od1_original_r10/c213_scc_20190618_ccee1od1_original_r10.m3u8&
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="6589" t
-http://tv.sason.xyz/logo/blank.png" group-title="E.数字电视",环球奇观 SD ▲
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="6589" tvg-name="环球奇观" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUANQIUQIGUAN.jpg" group-title="数字电视",环球奇观 SD ▲
 http://cdn-in.iqy.sc96655.com/tslive/c213_scc_20190618_1owx0aoh_original_r10/c213_scc_20190618_1owx0aoh_original_r10.m3u8&
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="0" tvg-
-http://tv.sason.xyz/logo/blank.png" group-title="E.数字电视",家庭理财 SD ▲
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字电视",家庭理财 SD ▲
 http://cdn-in.iqy.sc96655.com/tslive/c212_scc_20190618_02r3wayg_original_r10/c212_scc_20190618_02r3wayg_original_r10.m3u8&
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="0" tvg-
-http://tv.sason.xyz/logo/blank.png" group-title="E.数字电视",江苏靓装 SD ▲
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字电视",江苏靓装 SD ▲
 http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190618_n0r5emy4_original_r10/c211_scc_20190618_n0r5emy4_original_r10.m3u8&
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="2070" t
-http://tv.sason.xyz/logo/mstf.png" group-title="E.数字电视",美食天府 SD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字电视",美食天府 SD
 http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000080.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="6577" t
-http://tv.sason.xyz/logo/blank.png" group-title="E.数字电视",摄影频道 SD ▲
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="6577" tvg-name="摄影频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/PHOTOGRAPHY-CHANNEL.jpg" group-title="数字电视",摄影频道 SD ▲
 http://cdn-in.iqy.sc96655.com/tslive/c212_scc_20190618_jljxba4l_original_r10/c212_scc_20190618_jljxba4l_original_r10.m3u8&
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="0" tvg-
-http://tv.sason.xyz/logo/blank.png" group-title="E.数字电视",四海垂钓 SD ▲
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字电视",四海垂钓 SD ▲
 http://cdn-in.iqy.sc96655.com/tslive/c213_scc_20190618_sbsingex_original_r10/c213_scc_20190618_sbsingex_original_r10.m3u8&
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="6578" t
-http://tv.sason.xyz/logo/blank.png" group-title="E.数字电视",天元围棋 SD ▲
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="6578" tvg-name="天元围棋" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/TIANYUANWEIQI.jpg" group-title="数字电视",天元围棋 SD ▲
 http://cdn-in.iqy.sc96655.com/tslive/c212_scc_20190620_i2oihge1_original_r10/c212_scc_20190620_i2oihge1_original_r10.m3u8&
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="6602" t
-http://tv.sason.xyz/logo/blank.png" group-title="E.数字电视",先锋乒羽 SD ▲
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="6602" tvg-name="先锋乒羽" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/XFBY.jpg" group-title="数字电视",先锋乒羽 SD ▲
 http://cdn-in.iqy.sc96655.com/tslive/c214_scc_20190618_mfs1nrj3_original_r10/c214_scc_20190618_mfs1nrj3_original_r10.m3u8&
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="1303" t
-http://tv.sason.xyz/logo/blank.png" group-title="E.数字电视",游戏竞技 SD ▲
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字电视",游戏竞技 SD ▲
 http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190618_4ztlh52w_original_r10/c211_scc_20190618_4ztlh52w_original_r10.m3u8&
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="6597" t
-http://tv.sason.xyz/logo/zhms.png" group-title="E.数字电视",中华美食 SD ▲
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="6597" tvg-name="中华美食" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHINA-FOODTV.jpg" group-title="数字电视",中华美食 SD ▲
 http://cdn-in.iqy.sc96655.com/tslive/c212_scc_20190618_ewbvlwno_original_r10/c212_scc_20190618_ewbvlwno_original_r10.m3u8&
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="0" tvg-
-http://tv.sason.xyz/logo/blank.png" group-title="E.数字电视",CBN风尚生活 FHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字电视",CBN风尚生活 FHD
 http://hls.globaliptv.ml/myguizhou.php?id=cbnfengshangshenghuohd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="0" tvg-
-http://tv.sason.xyz/logo/blank.png" group-title="E.数字电视",CBN每日影院 FHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字电视",CBN每日影院 FHD
 http://hls.globaliptv.ml/myguizhou.php?id=cbnmeiriyingyuanhd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="0" tvg-
-http://tv.sason.xyz/logo/blank.png" group-title="E.数字电视",CBN幸福剧场 FHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字电视",CBN幸福剧场 FHD
 http://hls.globaliptv.ml/myguizhou.php?id=cbnxingfujuchanghd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="1970" t
-http://tv.sason.xyz/logo/blank.png" group-title="E.数字电视",DOX新艺 FHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="1970" tvg-name="DOX新艺" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_xinyi.png" group-title="上海",DOX新艺 FHD
 http://hls.globaliptv.ml/myguizhou.php?id=doxxinyihd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="1969" t
-http://tv.sason.xyz/logo/blank.png" group-title="E.数字电视",DOX新知 FHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="1969" tvg-name="DOX新知" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOX_xinzhi.png" group-title="上海",DOX新知 FHD
 http://hls.globaliptv.ml/myguizhou.php?id=doxxinzhihd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="1967" t
-http://tv.sason.xyz/logo/blank.png" group-title="E.数字电视",DOX怡家 FHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="1967" tvg-name="DOX怡家" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_yijia.png" group-title="上海",DOX怡家 FHD
 http://hls.globaliptv.ml/myguizhou.php?id=doxyijiahd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="1966" t
-http://tv.sason.xyz/logo/blank.png" group-title="E.数字电视",DOX英伦 FHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="1966" tvg-name="DOX英伦" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_yinglun.png" group-title="上海",DOX英伦 FHD
 http://hls.globaliptv.ml/myguizhou.php?id=doxyinglunhd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="110" tv
-http://tv.sason.xyz/logo/blank.png" group-title="E.数字电视",DOX映画 FHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="110" tvg-name="DOX映画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/doxyinghua.png" group-title="地方",DOX映画 FHD
 http://hls.globaliptv.ml/myguizhou.php?id=doxyinghuahd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="1968" t
-http://tv.sason.xyz/logo/blank.png" group-title="E.数字电视",DOX院线 FHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="1968" tvg-name="DOX院线" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOX-CINEMA.png" group-title="上海",DOX院线 FHD
 http://hls.globaliptv.ml/myguizhou.php?id=doxyuanxianhd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="0" tvg-
-http://tv.sason.xyz/logo/hstv.png" group-title="E.数字电视",华数FHD-01
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="华数TV",华数FHD-01
 http://hls-ott-zhibo.wasu.tv/live/353/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="0" tvg-
-http://tv.sason.xyz/logo/hstv.png" group-title="E.数字电视",华数FHD-02
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="华数TV",华数FHD-02
 http://hls-ott-zhibo.wasu.tv/live/364/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="0" tvg-
-http://tv.sason.xyz/logo/hstv.png" group-title="E.数字电视",华数FHD-03
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="华数TV",华数FHD-03
 http://hls-ott-zhibo.wasu.tv/live/385/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="0" tvg-
-http://tv.sason.xyz/logo/hstv.png" group-title="E.数字电视",华数FHD-04
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="华数TV",华数FHD-04
 http://hls-ott-zhibo.wasu.tv/live/384/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="0" tvg-
-http://tv.sason.xyz/logo/hstv.png" group-title="E.数字电视",华数FHD-05
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="华数TV",华数FHD-05
 http://hls-ott-zhibo.wasu.tv/live/386/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="0" tvg-
-http://tv.sason.xyz/logo/hstv.png" group-title="E.数字电视",华数FHD-06
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="华数TV",华数FHD-06
 http://hls-ott-zhibo.wasu.tv/live/412/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="0" tvg-
-http://tv.sason.xyz/logo/hstv.png" group-title="E.数字电视",华数FHD-07
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="华数TV",华数FHD-07
 http://hls-ott-zhibo.wasu.tv/live/413/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="0" tvg-
-http://tv.sason.xyz/logo/hstv.png" group-title="E.数字电视",华数FHD-08
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="华数TV",华数FHD-08
 http://hls-ott-zhibo.wasu.tv/live/410/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="0" tvg-
-http://tv.sason.xyz/logo/hstv.png" group-title="E.数字电视",华数FHD-09
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="华数TV",华数FHD-09
 http://hls-ott-zhibo.wasu.tv/live/414/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="0" tvg-
-http://tv.sason.xyz/logo/hstv.png" group-title="E.数字电视",华数FHD-10
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="华数TV",华数FHD-10
 http://hls-ott-zhibo.wasu.tv/live/415/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="0" tvg-
-http://tv.sason.xyz/logo/hstv.png" group-title="E.数字电视",华数FHD-11
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="华数TV",华数FHD-11
 http://hls-ott-zhibo.wasu.tv/live/420/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="0" tvg-
-http://tv.sason.xyz/logo/hstv.png" group-title="E.数字电视",华数FHD-12
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="华数TV",华数FHD-12
 http://hls-ott-zhibo.wasu.tv/live/428/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="0" tvg-
-http://tv.sason.xyz/logo/hstv.png" group-title="E.数字电视",华数FHD-13
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="华数TV",华数FHD-13
 http://hls-ott-zhibo.wasu.tv/live/435/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="0" tvg-
-http://tv.sason.xyz/logo/hstv.png" group-title="E.数字电视",华数FHD-15
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="华数TV",华数FHD-15
 http://hls-ott-zhibo.wasu.tv/live/461/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="0" tvg-
-http://tv.sason.xyz/logo/hstv.png" group-title="E.数字电视",华数HD-01
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="华数TV",华数HD-01
 http://hls-ott-zhibo.wasu.tv/live/113/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="0" tvg-
-http://tv.sason.xyz/logo/hstv.png" group-title="E.数字电视",华数HD-02
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="华数TV",华数HD-02
 http://hls-ott-zhibo.wasu.tv/live/180/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="0" tvg-
-http://tv.sason.xyz/logo/hstv.png" group-title="E.数字电视",华数HD-03
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="华数TV",华数HD-03
 http://hls-ott-zhibo.wasu.tv/live/181/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="0" tvg-
-http://tv.sason.xyz/logo/hstv.png" group-title="E.数字电视",华数HD-04
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="华数TV",华数HD-04
 http://hls-ott-zhibo.wasu.tv/live/303/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="0" tvg-
-http://tv.sason.xyz/logo/hstv.png" group-title="E.数字电视",华数HD-05
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="华数TV",华数HD-05
 http://hls-ott-zhibo.wasu.tv/live/315/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="0" tvg-
-http://tv.sason.xyz/logo/hstv.png" group-title="E.数字电视",华数HD-06
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="华数TV",华数HD-06
 http://hls-ott-zhibo.wasu.tv/live/332/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="0" tvg-
-http://tv.sason.xyz/logo/hstv.png" group-title="E.数字电视",华数HD-07
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="华数TV",华数HD-07
 http://hls-ott-zhibo.wasu.tv/live/348/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="0" tvg-
-http://tv.sason.xyz/logo/hstv.png" group-title="E.数字电视",华数HD-08
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="华数TV",华数HD-08
 http://hls-ott-zhibo.wasu.tv/live/367/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="0" tvg-
-http://tv.sason.xyz/logo/hstv.png" group-title="E.数字电视",华数HD-09
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="华数TV",华数HD-09
 http://hls-ott-zhibo.wasu.tv/live/365/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="0" tvg-
-http://tv.sason.xyz/logo/hstv.png" group-title="E.数字电视",华数HD-10
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="华数TV",华数HD-10
 http://hls-ott-zhibo.wasu.tv/live/369/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="0" tvg-
-http://tv.sason.xyz/logo/hstv.png" group-title="E.数字电视",华数HD-11
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="华数TV",华数HD-11
 http://hls-ott-zhibo.wasu.tv/live/394/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="0" tvg-
-http://tv.sason.xyz/logo/hstv.png" group-title="E.数字电视",华数HD-12
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="华数TV",华数HD-12
 http://hls-ott-zhibo.wasu.tv/live/403/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="0" tvg-
-http://tv.sason.xyz/logo/hstv.png" group-title="E.数字电视",华数HD-13
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="华数TV",华数HD-13
 http://hls-ott-zhibo.wasu.tv/live/419/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="0" tvg-
-http://tv.sason.xyz/logo/hstv.png" group-title="E.数字电视",华数HD-14
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="华数TV",华数HD-14
 http://hls-ott-zhibo.wasu.tv/live/418/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="0" tvg-
-http://tv.sason.xyz/logo/hstv.png" group-title="E.数字电视",华数HD-15
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="华数TV",华数HD-15
 http://hls-ott-zhibo.wasu.tv/live/422/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="0" tvg-
-http://tv.sason.xyz/logo/hstv.png" group-title="E.数字电视",华数HD-16
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="华数TV",华数HD-16
 http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="0" tvg-
-http://tv.sason.xyz/logo/hstv.png" group-title="E.数字电视",华数HD-17
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="华数TV",华数HD-17
 http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="0" tvg-
-http://tv.sason.xyz/logo/hstv.png" group-title="E.数字电视",华数HD-18
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="华数TV",华数HD-18
 http://hls-ott-zhibo.wasu.tv/live/452/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="0" tvg-
-http://tv.sason.xyz/logo/blank.png" group-title="E.数字电视",CIBN电影
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN轮播",CIBN电影
 http://cinb1.peoplevideo.cn/hls/vCIBNDYPD/1800/vCIBNDYPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="0" tvg-
-http://tv.sason.xyz/logo/blank.png" group-title="E.数字电视",CIBN电影导视
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN轮播",CIBN电影导视
 http://cinb1.peoplevideo.cn/hls/vCIBNDYDS/1800/vCIBNDYDS.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="0" tvg-
-http://tv.sason.xyz/logo/blank.png" group-title="E.数字电视",CIBN风尚运动
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN轮播",CIBN风尚运动
 http://cibn.peoplevideo.cn/hls/vCIBNDSJC/1800/vCIBNDSJC.m3u8?wsSecret=5f38811d672214110f110816440adbdb
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="0" tvg-
-http://tv.sason.xyz/logo/blank.png" group-title="E.数字电视",CIBN古装剧场
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN轮播",CIBN古装剧场
 http://cinb1.peoplevideo.cn/hls/vCIBNZYPD/1800/vCIBNZYPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="0" tvg-
-http://tv.sason.xyz/logo/blank.png" group-title="E.数字电视",CIBN汉学院
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN轮播",CIBN汉学院
 http://cinb1.peoplevideo.cn/hls/vCIBNHXYPD/1800/vCIBNHXYPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="0" tvg-
-http://tv.sason.xyz/logo/blank.png" group-title="E.数字电视",CIBN好莱坞
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN轮播",CIBN好莱坞
 http://cibn.peoplevideo.cn/hls/vCIBNHLWPD/1800/vCIBNHLWPD.m3u8?wsSecret=771e13c21abf2b58b4c375b614f113f4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="0" tvg-
-http://tv.sason.xyz/logo/blank.png" group-title="E.数字电视",CIBN嗨播
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN轮播",CIBN嗨播
 http://cinb1.peoplevideo.cn/hls/vCIBNDYDYYPD/1800/vCIBNYYPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="0" tvg-
-http://tv.sason.xyz/logo/blank.png" group-title="E.数字电视",CIBN纪录片
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN轮播",CIBN纪录片
 http://cinb1.peoplevideo.cn/hls/vCIBNJLPD/1800/vCIBNJLPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="0" tvg-
-http://tv.sason.xyz/logo/blank.png" group-title="E.数字电视",CIBN健康
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN轮播",CIBN健康
 http://cibn.peoplevideo.cn/hls/vCIBNJKPD/1800/vCIBNJKPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="0" tvg-
-http://tv.sason.xyz/logo/blank.png" group-title="E.数字电视",CIBN骄阳剧场
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN轮播",CIBN骄阳剧场
 http://cinb1.peoplevideo.cn/hls/vCIBNJDJC/1800/vCIBNJDJC.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="0" tvg-
-http://tv.sason.xyz/logo/blank.png" group-title="E.数字电视",CIBN教育
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN轮播",CIBN教育
 http://cinb1.peoplevideo.cn/hls/vCIBNJYPD/1800/vCIBNJYPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="0" tvg-
-http://tv.sason.xyz/logo/blank.png" group-title="E.数字电视",CIBN精品影院
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN轮播",CIBN精品影院
 http://cinb1.peoplevideo.cn/hls/vCIBNJPYY/1800/vCIBNJPYY.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="0" tvg-
-http://tv.sason.xyz/logo/blank.png" group-title="E.数字电视",CIBN军事
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN轮播",CIBN军事
 http://cinb1.peoplevideo.cn/hls/vCIBNGZJC/1800/vCIBNGZJC.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="0" tvg-
-http://tv.sason.xyz/logo/blank.png" group-title="E.数字电视",CIBN流金岁月
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN轮播",CIBN流金岁月
 http://cibn.peoplevideo.cn/hls/vCIBNSCPD/1800/vCIBNSCPD.m3u8?wsSecret=5f38811d672214110f110816440adbdb
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="0" tvg-
-http://tv.sason.xyz/logo/blank.png" group-title="E.数字电视",CIBN汽车
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN轮播",CIBN汽车
 http://cinb1.peoplevideo.cn/hls/vCIBNQCPD/1800/vCIBNQCPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="0" tvg-
-http://tv.sason.xyz/logo/blank.png" group-title="E.数字电视",CIBN情感影院
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN轮播",CIBN情感影院
 http://cinb1.peoplevideo.cn/hls/vCIBNQGYY/1800/vCIBNQGYY.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="0" tvg-
-http://tv.sason.xyz/logo/blank.png" group-title="E.数字电视",CIBN生活
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN轮播",CIBN生活
 http://cinb1.peoplevideo.cn/hls/vCIBNGWPD/1800/vCIBNGWPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="0" tvg-
-http://tv.sason.xyz/logo/blank.png" group-title="E.数字电视",CIBN童学世界
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN轮播",CIBN童学世界
 http://cinb1.peoplevideo.cn/hls/vCIBNRBJC/1800/vCIBNRBJC.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="0" tvg-
-http://tv.sason.xyz/logo/blank.png" group-title="E.数字电视",CIBN微电影
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN轮播",CIBN微电影
 http://cinb1.peoplevideo.cn/hls/vCIBNWDYPD/1800/vCIBNWDYPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="0" tvg-
-http://tv.sason.xyz/logo/blank.png" group-title="E.数字电视",CIBN文化中国
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN轮播",CIBN文化中国
 http://cinb1.peoplevideo.cn/hls/vCIBNCWHPD/1800/vCIBNCWHPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="0" tvg-
-http://tv.sason.xyz/logo/blank.png" group-title="E.数字电视",CIBN喜剧影院
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN轮播",CIBN喜剧影院
 http://cinb1.peoplevideo.cn/hls/vCIBNHSYX/1800/vCIBNHSYX.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="0" tvg-
-http://tv.sason.xyz/logo/blank.png" group-title="E.数字电视",CIBN炫佳动漫
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN轮播",CIBN炫佳动漫
 http://cinb1.peoplevideo.cn/hls/vCIBNDMPD/1800/vCIBNDMPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="0" tvg-
-http://tv.sason.xyz/logo/blank.png" group-title="E.数字电视",CIBN艺术院线
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN轮播",CIBN艺术院线
 http://cinb1.peoplevideo.cn/hls/vCIBNTEADJ/1800/vCIBNTEADJ.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="0" tvg-
-http://tv.sason.xyz/logo/blank.png" group-title="E.数字电视",CIBN院线大片
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN轮播",CIBN院线大片
 http://cibn.peoplevideo.cn/hls/vCIBNHYPD/1800/vCIBNHYPD.m3u8?wsSecret=771e13c21abf2b58b4c375b614f113f4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="0" tvg-
-http://tv.sason.xyz/logo/blank.png" group-title="E.数字电视",CIBN真人秀
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="" tvg-n
-http://xiaogan.live.cjyun.org/video/s10139-xg/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="" tvg-n
-http://xiaogan.live.cjyun.org/video/s10139-shpd/index.m3u8
-#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",#EXTINF-1 tvg-id="48" tvg
-http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="孝感",湖北卫视
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN轮播",CIBN真人秀
+http://cibn.peoplevideo.cn/hls/vCIBNZRSW/1800/vCIBNZRSW.m3u8?wsSecret=b58297c2170067d9164da6f2f86d3059
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN轮播",CIBN综合
+http://cibn.peoplevideo.cn/hls/vCIBNXQDPD/1800/vCIBNXQDPD.m3u8?wsSecret=24dfaaac2d26b0cc0ff33bf8a5099384
+#EXTINF:-1 tvg-id="2054" tvg-name="SCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv2.png" group-title="四川",四川 文化旅游 FHD ▲
+http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190617_ubvkckj4_original_r10/c211_scc_20190617_ubvkckj4_original_r10.m3u8&
+#EXTINF:-1 tvg-id="2055" tvg-name="SCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv3.png" group-title="四川",四川 经济 FHD ▲
+http://cdn-in.iqy.sc96655.com/tslive/c212_scc_20190617_ry4zkwol_original_r10/c212_scc_20190617_ry4zkwol_original_r10.m3u8&
+#EXTINF:-1 tvg-id="2056" tvg-name="SCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv4.png" group-title="四川",四川 新闻 FHD ▲
+http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190618_o4cr4fzk_original_r10/c211_scc_20190618_o4cr4fzk_original_r10.m3u8&
+#EXTINF:-1 tvg-id="2057" tvg-name="SCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv5.png" group-title="四川",四川 影视文艺 FHD ▲
+http://cdn-in.iqy.sc96655.com/tslive/c212_scc_20190618_eqfvkj53_original_r10/c212_scc_20190618_eqfvkj53_original_r10.m3u8&
+#EXTINF:-1 tvg-id="2059" tvg-name="SCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv7.png" group-title="四川",四川 妇女儿童 FHD ▲
+http://cdn-in.iqy.sc96655.com/tslive/c213_scc_20190618_giaorvjb_original_r10/c213_scc_20190618_giaorvjb_original_r10.m3u8&
+#EXTINF:-1 tvg-id="2062" tvg-name="SCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv8.png" group-title="四川",四川 科教 HD
+http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=020&Provider_id=&Pcontent_id=index.m3u8
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视
 http://live.cjyun.org/hubeitv/s10008-live-hbws.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="" tvg-n
-http://live.cjyun.org/hubeitv/s10008-live-hbjs.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="" tvg-n
-http://live.cjyun.org/hubeitv/s10008-live-hbls.m3u8
-#EXTINF:-1 tvg-id="1780" tvg-name="湖北教育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUBEI4.png" group-title="湖北",#EXTINF-1 tvg-id="1780" t
-http://epg.51zmt.top:8000/tb1/qt/HUBEI4.png" group-title="孝感",湖北教育
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="1780" tvg-name="湖北教育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUBEI4.png" group-title="湖北",湖北教育
 http://live.cjyun.org/hubeitv/s10008-live-hbjy.m3u8
-#EXTINF:-1 tvg-id="1783" tvg-name="湖北公共·新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUBEI7.png" group-title="湖北",#EXTINF-1 tvg-id="1783" t
-http://epg.51zmt.top:8000/tb1/qt/HUBEI7.png" group-title="孝感",湖北公共
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="1783" tvg-name="湖北公共·新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUBEI7.png" group-title="湖北",湖北公共
 http://live.cjyun.org/hubeitv/s10008-live-hbgg.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="" tvg-n
-http://live.cjyun.org/hubeitv/s10008-live-hbzh.m3u8
-#EXTINF:-1 tvg-id="1779" tvg-name="湖北影视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUBEI3.png" group-title="湖北",#EXTINF-1 tvg-id="1779" t
-http://epg.51zmt.top:8000/tb1/qt/HUBEI3.png" group-title="孝感",湖北影视
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="1779" tvg-name="湖北影视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUBEI3.png" group-title="湖北",湖北影视
 http://live.cjyun.org/hubeitv/s10008-live-hbys.m3u8
-#EXTINF:-1 tvg-id="1781" tvg-name="湖北生活频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUBEI5.png" group-title="湖北",#EXTINF-1 tvg-id="1781" t
-http://epg.51zmt.top:8000/tb1/qt/HUBEI5.png" group-title="孝感",湖北生活
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="1781" tvg-name="湖北生活频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUBEI5.png" group-title="湖北",湖北生活
 http://live.cjyun.org/hubeitv/s10008-live-hbsh.m3u8
-#EXTINF:-1 tvg-id="6617" tvg-name="休闲指南" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC16.jpg" group-title="地方",#EXTINF-1 tvg-id="6617" t
-http://epg.51zmt.top:8000/tb1/qt/BAMC16.jpg" group-title="孝感",湖北休闲指南
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖北",湖北陇上
+http://live.cjyun.org/hubeitv/s10008-live-hbls.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖北",湖北指南
 http://live.cjyun.org/hubeitv/s10008-live-xxzn.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="" tvg-n
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖北",湖北电视台
+http://live.cjyun.org/hubeitv/s10008-live-hbzh.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖北",湖北经视
+http://live.cjyun.org/hubeitv/s10008-live-hbjs.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖北",美嘉购物
 http://live.cjyun.org/hubeitv/s10008-live-mjgw.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="" tvg-n
-http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="" tvg-n
-http://aldirect.hls.huya.com/huyalive/94525224-2472147404-10617792251071299584-2777026638-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海",#EXTINF-1 tvg-id="1987" t
-http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海",五星体育
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
-http://117.156.28.21/PLTV/88888888/224/3221225603/index.m3u8
-#EXTINF:-1 tvg-id="412" tvg-name="HKS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="港澳台",#EXTINF-1 tvg-id="412" tv
-http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="港澳台",香港卫视
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 tvg-id="412" tvg-name="HKS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="港澳台",#EXTINF-1 tvg-id="412" tv
-http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="港澳台",香港卫视2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
-http://cctvalih5ca.v.myalicdn.com/cstv/xianggangweishi_2/index.m3u8
-#EXTINF:-1 tvg-id="412" tvg-name="HKS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="港澳台",#EXTINF-1 tvg-id="412" tv
-http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="港澳台",香港卫视3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="" tvg-n
-http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",#EXTINF-1 tvg-id="142" tv
-http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰卫视资讯台
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
-http://161.117.239.243/live/fhwszx/fhwszx.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="" tvg-n
-http://stream.mastvnet.com/MSTV/SD/live.m3u8
-#EXTINF:-1 tvg-id="6153" tvg-name="HBOHits" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHits.png" group-title="港澳台",#EXTINF-1 tvg-id="6153" t
-http://epg.51zmt.top:8000/tb1/gt/HBOHits.png" group-title="港澳台",HBO hit
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
-http://47.52.218.42/live/hbo/hbo.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="" tvg-n
-http://47.241.6.233/live/SxrvRbql/fhwszw.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="孝感",孝感公共
+http://xiaogan.live.cjyun.org/video/s10139-shpd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="孝感",孝感新闻
+http://xiaogan.live.cjyun.org/video/s10139-xg/index.m3u8
