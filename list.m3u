@@ -386,5 +386,5 @@ http://live.cjyun.org/hubeitv/s10008-live-hbjs.m3u8
 http://live.cjyun.org/hubeitv/s10008-live-mjgw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖北",孝感公共
 http://xiaogan.live.cjyun.org/video/s10139-shpd/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖北",孝感新闻
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.yun.cnhubei.com/a/10001/201810/8cd1fe9941c18100373f2b7d3c91afef.jpg" group-title="湖北",孝感新闻
 http://xiaogan.live.cjyun.org/video/s10139-xg/index.m3u8
