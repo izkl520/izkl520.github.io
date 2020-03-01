@@ -192,13 +192,13 @@ http://cdn-in.iqy.sc96655.com/tslive/c212_scc_20190618_q0ktot1t_original_r10/c21
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.sason.xyz/logo/dqjs.png" group-title=" group-title="数字电视",Document全记实 FHD ▲
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.sason.xyz/logo/dqjs.png"  group-title="数字电视",Document全记实 FHD ▲
 http://cdn-in.iqy.sc96655.com/tslive/c214_scc_20190618_v5ehytok_original_r10/c214_scc_20190618_v5ehytok_original_r10.m3u8&
 #EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.jpg" group-title="数字电视",求索记录 FHD
 http://112.17.40.145/PLTV/88888888/224/3221226610/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.sason.xyz/logo/blank.png" group-title=" group-title="数字电视",动漫秀场 FHD ▲
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.sason.xyz/logo/blank.png" group-title="数字电视",动漫秀场 FHD ▲
 http://cdn-in.iqy.sc96655.com/tslive/c212_scc_20190618_0ao2empo_original_r10/c212_scc_20190618_0ao2empo_original_r10.m3u8&
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.sason.xyz/logo/blank.png" group-title=" group-title="数字电视",都市剧场 FHD ▲
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.sason.xyz/logo/blank.png"  group-title="数字电视",都市剧场 FHD ▲
 http://cdn-in.iqy.sc96655.com/tslive/c214_scc_20190618_4lpqgfgj_original_r10/c214_scc_20190618_4lpqgfgj_original_r10.m3u8&
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="数字电视",欢笑剧场 FHD ▲
 http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190618_zfhmkt12_original_r10/c211_scc_20190618_zfhmkt12_original_r10.m3u8&
@@ -212,15 +212,15 @@ http://cdn-in.iqy.sc96655.com/tslive/c212_scc_20190618_vrqwjwec_original_r10/c21
 http://cdn-in.iqy.sc96655.com/tslive/c213_scc_20190618_ccee1od1_original_r10/c213_scc_20190618_ccee1od1_original_r10.m3u8&
 #EXTINF:-1 tvg-id="6589" tvg-name="环球奇观" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUANQIUQIGUAN.jpg" group-title="数字电视",环球奇观 SD ▲
 http://cdn-in.iqy.sc96655.com/tslive/c213_scc_20190618_1owx0aoh_original_r10/c213_scc_20190618_1owx0aoh_original_r10.m3u8&
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.sason.xyz/logo/blank.png" group-title=" group-title="数字电视",家庭理财 SD ▲
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.sason.xyz/logo/blank.png"  group-title="数字电视",家庭理财 SD ▲
 http://cdn-in.iqy.sc96655.com/tslive/c212_scc_20190618_02r3wayg_original_r10/c212_scc_20190618_02r3wayg_original_r10.m3u8&
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.sason.xyz/logo/blank.png" group-title=" group-title="数字电视",江苏靓装 SD ▲
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.sason.xyz/logo/blank.png" group-title="数字电视",江苏靓装 SD ▲
 http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190618_n0r5emy4_original_r10/c211_scc_20190618_n0r5emy4_original_r10.m3u8&
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.sason.xyz/logo/mstf.png" group-title=" group-title="数字电视",美食天府 SD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.sason.xyz/logo/mstf.png" group-title="数字电视",美食天府 SD
 http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000080.m3u8
 #EXTINF:-1 tvg-id="6577" tvg-name="摄影频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/PHOTOGRAPHY-CHANNEL.jpg" group-title="数字电视",摄影频道 SD ▲
 http://cdn-in.iqy.sc96655.com/tslive/c212_scc_20190618_jljxba4l_original_r10/c212_scc_20190618_jljxba4l_original_r10.m3u8&
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.sason.xyz/logo/blank.png" group-title=" group-title="数字电视",四海垂钓 SD ▲
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.sason.xyz/logo/blank.png"  group-title="数字电视",四海垂钓 SD ▲
 http://cdn-in.iqy.sc96655.com/tslive/c213_scc_20190618_sbsingex_original_r10/c213_scc_20190618_sbsingex_original_r10.m3u8&
 #EXTINF:-1 tvg-id="6578" tvg-name="天元围棋" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/TIANYUANWEIQI.jpg" group-title="数字电视",天元围棋 SD ▲
 http://cdn-in.iqy.sc96655.com/tslive/c212_scc_20190620_i2oihge1_original_r10/c212_scc_20190620_i2oihge1_original_r10.m3u8&
