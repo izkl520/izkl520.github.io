@@ -165,7 +165,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225756/index.m3u8
 http://hls.zixuan.ml:13579/mymigu.php?id=649531756
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="教育",CETV-4 SD
 http://hls.zixuan.ml:13579/mymigu.php?id=649531725
-#EXTINF:-1 tvg-id="6581" tvg-name="早期教育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE33.jpg" group-title="地方",CETV 早期教育 SD ▲
+#EXTINF:-1 tvg-id="6581" tvg-name="早期教育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE33.jpg" group-title="教育",CETV 早期教育 SD ▲
 http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190618_4xjwi0v3_original_r10/c211_scc_20190618_4xjwi0v3_original_r10.m3u8&
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="电影",CHC动作电影 ▲
 http://cdn-in.iqy.sc96655.com/tslive/c213_scc_20190618_wzkayvu1_original_r10/c213_scc_20190618_wzkayvu1_original_r10.m3u8&
@@ -175,7 +175,7 @@ http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190618_ek4k254b_original_r10/c21
 http://cdn-in.iqy.sc96655.com/tslive/c212_scc_20190618_q0ktot1t_original_r10/c212_scc_20190618_q0ktot1t_original_r10.m3u8&
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字电视",Document全记实 FHD ▲
 http://cdn-in.iqy.sc96655.com/tslive/c214_scc_20190618_v5ehytok_original_r10/c214_scc_20190618_v5ehytok_original_r10.m3u8&
-#EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.jpg" group-title="地方",求索记录 FHD
+#EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.jpg" group-title="数字电视",求索记录 FHD
 http://112.17.40.145/PLTV/88888888/224/3221226610/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字电视",动漫秀场 FHD ▲
 http://cdn-in.iqy.sc96655.com/tslive/c212_scc_20190618_0ao2empo_original_r10/c212_scc_20190618_0ao2empo_original_r10.m3u8&
@@ -217,18 +217,6 @@ http://hls.globaliptv.ml/myguizhou.php?id=cbnfengshangshenghuohd
 http://hls.globaliptv.ml/myguizhou.php?id=cbnmeiriyingyuanhd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字电视",CBN幸福剧场 FHD
 http://hls.globaliptv.ml/myguizhou.php?id=cbnxingfujuchanghd
-#EXTINF:-1 tvg-id="1970" tvg-name="DOX新艺" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_xinyi.png" group-title="数字电视",DOX新艺 FHD
-http://hls.globaliptv.ml/myguizhou.php?id=doxxinyihd
-#EXTINF:-1 tvg-id="1969" tvg-name="DOX新知" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOX_xinzhi.png" group-title="数字电视",DOX新知 FHD
-http://hls.globaliptv.ml/myguizhou.php?id=doxxinzhihd
-#EXTINF:-1 tvg-id="1967" tvg-name="DOX怡家" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_yijia.png" group-title="数字电视",DOX怡家 FHD
-http://hls.globaliptv.ml/myguizhou.php?id=doxyijiahd
-#EXTINF:-1 tvg-id="1966" tvg-name="DOX英伦" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_yinglun.png" group-title="数字电视",DOX英伦 FHD
-http://hls.globaliptv.ml/myguizhou.php?id=doxyinglunhd
-#EXTINF:-1 tvg-id="110" tvg-name="DOX映画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/doxyinghua.png" group-title="数字电视",DOX映画 FHD
-http://hls.globaliptv.ml/myguizhou.php?id=doxyinghuahd
-#EXTINF:-1 tvg-id="1968" tvg-name="DOX院线" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOX-CINEMA.png" group-title="数字电视",DOX院线 FHD
-http://hls.globaliptv.ml/myguizhou.php?id=doxyuanxianhd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="华数TV",华数FHD-01
 http://hls-ott-zhibo.wasu.tv/live/353/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="华数TV",华数FHD-02
