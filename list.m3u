@@ -374,17 +374,17 @@ http://live.cjyun.org/hubeitv/s10008-live-hbgg.m3u8
 http://live.cjyun.org/hubeitv/s10008-live-hbys.m3u8
 #EXTINF:-1 tvg-id="1781" tvg-name="湖北生活频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUBEI5.png" group-title="湖北",湖北生活
 http://live.cjyun.org/hubeitv/s10008-live-hbsh.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖北",湖北陇上
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://c.hiphotos.baidu.com/baike/s%3D600%3Bq%3D50/sign=bb6b19c1b4fd5266a32b3f149b23e616/37d3d539b6003af30027c94a372ac65c1038b67e.jpg" group-title="湖北",湖北陇上
 http://live.cjyun.org/hubeitv/s10008-live-hbls.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖北",湖北指南
 http://live.cjyun.org/hubeitv/s10008-live-xxzn.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖北",湖北电视台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i2.sinaimg.cn/ent/v/m/2011-12-26/U5911P28T3D3517756F326DT20111226172728.jpg" group-title="湖北",湖北电视台
 http://live.cjyun.org/hubeitv/s10008-live-hbzh.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖北",湖北经视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.sovxin.com/upload/2013/12/02/avatar/3eb12b5f7d461780dde1627e84fde182.jpg" group-title="湖北",湖北经视
 http://live.cjyun.org/hubeitv/s10008-live-hbjs.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖北",美嘉购物
 http://live.cjyun.org/hubeitv/s10008-live-mjgw.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖北",孝感公共
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p0.ifengimg.com/pmop/2018/0227/74DB51416D0C7B4827190720F179AD6EC8538FC2_size30_w500_h500.jpeg" group-title="湖北",孝感公共
 http://xiaogan.live.cjyun.org/video/s10139-shpd/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.yun.cnhubei.com/a/10001/201810/8cd1fe9941c18100373f2b7d3c91afef.jpg" group-title="湖北",孝感新闻
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.xghylt.com/data/attachment/forum/pw/Mon_1502/2_92682_d32cc86532bcf94.jpg" group-title="湖北",孝感新闻
 http://xiaogan.live.cjyun.org/video/s10139-xg/index.m3u8
