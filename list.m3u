@@ -113,11 +113,11 @@ http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000296103.m3u8
 http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000293303.m3u8
 #EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视",广西卫视 FHD
 http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000294203.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.downk.cc/item/5e5652f46127cc0713d5e121.png" group-title="电影",峨眉电影-1 HD
+#EXTINF:-1 tvg-id="" tvg-name="tvg-logo="https://pic.downk.cc/item/5e5652f46127cc0713d5e121.png" group-title="电影",峨眉电影-1 HD
 http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.downk.cc/item/5e5652f46127cc0713d5e121.png" group-title="电影",峨眉电影-2 FHD ▲
+#EXTINF:-1 tvg-id="" tvg-name="tvg-logo="https://pic.downk.cc/item/5e5652f46127cc0713d5e121.png" group-title="电影",峨眉电影-2 FHD ▲
 http://cdn-in.iqy.sc96655.com/tslive/c212_scc_20190618_5nvsifwn_original_r10/c212_scc_20190618_5nvsifwn_original_r10.m3u8&
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="电影",湖南潇湘电影 HD
+#EXTINF:-1 tvg-id="" tvg-name="tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="电影",湖南潇湘电影 HD
 http://124.232.231.246:6610/000000001001/201600020006/1400.m3u8?zte_auth=ae0fcdac&ztecid=201600020005&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=LPjne9%2Bz7%2B%2F905ByFWbN5McknogfJXrVwjUFLaeEL29vpHGrk2l%2FUHYgN1aASj376oO1xLnnHQM%2BvUxQhm38dnHm1eSuY7vi6YzamvW6l8OtgHpq%2BKs%2Bl9QddsFpnz4k&m3u8_level=2&terminal_flag=0&ispcode=8
 #EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视 FHD
 http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000291503.m3u8
@@ -157,13 +157,13 @@ http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
 http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.sason.xyz/logo/blank.png" group-title=" group-title="电影",广电4K测试频道 ▲
 http://cdn-in.iqy.sc96655.com/tslive/c214_scc_20191122_m4avmczq_original_r10/c214_scc_20191122_m4avmczq_original_r10.m3u8&
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.sason.xyz/logo/cetv1.png" group-title=" group-title="教育",CETV-1 FHD ▲
+#EXTINF:-1 tvg-id="" tvg-name="tvg-logo="http://tv.sason.xyz/logo/cetv1.png" group-title=" group-title="教育",CETV-1 FHD ▲
 http://CDN-in.iqy.sc96655.com/tslive/c213_scc_20190618_hckfiiqn_original_r10/c213_scc_20190618_hckfiiqn_original_r10.m3u8&
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.sason.xyz/logo/cetv2.png" group-title=" group-title="教育",CETV-2 SD
+#EXTINF:-1 tvg-id="" tvg-name="tvg-logo="http://tv.sason.xyz/logo/cetv2.png" group-title=" group-title="教育",CETV-2 SD
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225756/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.sason.xyz/logo/cetv3.png" group-title=" group-title="教育",CETV-3 SD
+#EXTINF:-1 tvg-id="" tvg-name="tvg-logo="http://tv.sason.xyz/logo/cetv3.png" group-title=" group-title="教育",CETV-3 SD
 http://hls.zixuan.ml:13579/mymigu.php?id=649531756
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.sason.xyz/logo/cetv4.png" group-title=" group-title="教育",CETV-4 SD
+#EXTINF:-1 tvg-id="" tvg-name="tvg-logo="http://tv.sason.xyz/logo/cetv4.png" group-title=" group-title="教育",CETV-4 SD
 http://hls.zixuan.ml:13579/mymigu.php?id=649531725
 #EXTINF:-1 tvg-id="6581" tvg-name="早期教育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE33.jpg" group-title="教育",CETV 早期教育 SD ▲
 http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190618_4xjwi0v3_original_r10/c211_scc_20190618_4xjwi0v3_original_r10.m3u8&
