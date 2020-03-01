@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="1" tvg-
-http://tv.sason.xyz/logo/cctv1.png" group-title="A.央视",CCTV-1 综合 FHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1" tvg-logo="" group-title="央视",未知
 http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 tvg-id="2" tvg-
 http://tv.sason.xyz/logo/cctv2.png" group-title="A.央视",CCTV-2 财经 FHD
