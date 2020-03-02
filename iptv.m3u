@@ -242,7 +242,7 @@ http://60.255.149.209/tslive/c213_scc_20190618_giaorvjb_original_r10/c213_scc_20
 http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=020&Provider_id=&Pcontent_id=index.m3u8
 #EXTINF:-1 tvg-id="2061" tvg-logo="http://tv.sason.xyz/logo/scggxc.png" group-title="F.四川本地",四川 公共乡村 HD
 http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=058&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="湖北",湖北卫视
 http://live.cjyun.org/hubeitv/s10008-live-hbws.m3u8
 #EXTINF:-1 tvg-id="1780" tvg-name="湖北教育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUBEI4.png" group-title="湖北",湖北教育
 http://live.cjyun.org/hubeitv/s10008-live-hbjy.m3u8
